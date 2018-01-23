@@ -13,7 +13,7 @@ var row3 = arrAlphabet.slice(23,35);
 // Методом slice() вырезаем из массива 3 отдельных массива
 console.log(row1);
 console.log(row2);
-console.log(row3);
+console.log(row3); 
 
 var stringrow1 = row1.join(", ");
 var stringrow2 = row2.join(", ");
